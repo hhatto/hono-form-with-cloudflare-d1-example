@@ -1,0 +1,12 @@
+name = "hono-form-with-firestore-example"
+main = "src/index.tsx"
+compatibility_date = "2024-12-19"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hono-form-example"
+database_id = "6e8506b8-d397-4df2-ac7b-d8d4d02ab33e"
+
+# [observability]
+# enabled = true
+# head_sampling_rate = 1
